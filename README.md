@@ -62,7 +62,49 @@ The lab system handbook and instructions for lab 0 can be found here:
 ## 01 - Linear Regression/Least Squares
 
 * [pdf slides](/handouts/handout-01-linear-regression.pdf)
-<!-- * [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf) ([solutions](/handouts/tutorial-00-linear-algebra-solutions.pdf)) -->
-<!-- * [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf) ([solutions](/handouts/tutorial-01-linear-regression-solutions.pdf)) -->
+* [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf) ([solutions](/handouts/tutorial-00-linear-algebra-solutions.pdf))
+* [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf) ([solutions](/handouts/tutorial-01-linear-regression-solutions.pdf))
 <!-- * [short quiz](/handouts/quiz1b-short.pdf) -->
+
+## 02 - Logistic Regression
+
+* [pdf slides](/handouts/handout-02-logistic-regression.pdf)
+
+
+<!-- ## 03 - Classic Classifiers -->
+
+<!-- * [pdf slides](/handouts/handout-03-classic-classifiers.pdf) -->
+
+<!-- ## 04 - Evaluating Classifier Performance -->
+
+<!-- * [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf) -->
+
+<!-- ## 05 - FeedForward Neural Networks -->
+
+<!-- * [pdf slides](/handouts/handout-05-deep-feedforward-networks.pdf) -->
+
+<!-- ## 06 - Convolutional Neural Networks -->
+
+<!-- * [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf) -->
+
+<!-- ## 07 - Advances in Network Architectures and Training -->
+
+<!-- * [pdf slides](/handouts/handout-07-advances-in-network-architectures.pdf) -->
+
+<!-- ## 08 - Recurrent Neural Networks -->
+
+<!-- * [pdf slides](/handouts/handout-08-recurrent-neural-networks.pdf) -->
+
+
+<!-- ## 09 - Generative Models -->
+
+<!-- * [pdf slides](/handouts/handout-09-generative-models.pdf) -->
+
+<!-- ## 10 - Attention Mechanism and Transformer Model -->
+
+<!-- * [pdf slides](/handouts/handout-10-transformers.pdf) -->
+
+<!-- ## 11 - Large Language Models -->
+
+<!-- * [pdf slides](/handouts/handout-11-large-language-models.pdf) -->
 
