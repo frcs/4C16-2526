@@ -70,7 +70,6 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 
-
 ## 03 - Classic Classifiers
 
 * [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
@@ -95,14 +94,15 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](/handouts/handout-08-recurrent-neural-networks.pdf)
 
+## 09 - Attention Mechanism and Transformer Model
+
+* [pdf slides](/handouts/handout-09-transformers.pdf)
+
 
 <!-- ## 09 - Generative Models -->
 
 <!-- * [pdf slides](/handouts/handout-09-generative-models.pdf) -->
 
-<!-- ## 10 - Attention Mechanism and Transformer Model -->
-
-<!-- * [pdf slides](/handouts/handout-10-transformers.pdf) -->
 
 <!-- ## 11 - Large Language Models -->
 
