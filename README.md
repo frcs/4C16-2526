@@ -99,9 +99,9 @@ The lab system handbook and instructions for lab 0 can be found here:
 * [pdf slides](/handouts/handout-09-transformers.pdf)
 
 
-<!-- ## 09 - Generative Models -->
+## 10 - Generative Models
 
-<!-- * [pdf slides](/handouts/handout-09-generative-models.pdf) -->
+* [pdf slides](/handouts/handout-10-generative-models.pdf)
 
 
 <!-- ## 11 - Large Language Models -->
